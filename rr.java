@@ -8,3 +8,11 @@ public static void main() {
         System.out.println("Number: " + i);
     }
 }
+
+
+new feature code
+556
+66
+6
+6
+
